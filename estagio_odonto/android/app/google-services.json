@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "709876722430",
+    "project_id": "odon-87cbe",
+    "storage_bucket": "odon-87cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709876722430:android:57e9c39ecbb847001c93af",
+        "android_client_info": {
+          "package_name": "com.example.odonto_estagio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709876722430-92dupi236hd6qgbhkqmm8f7nog3lqpsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZHjdu9QZ3QSfebmFC5y1NbrOpw_OS5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709876722430-92dupi236hd6qgbhkqmm8f7nog3lqpsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709876722430:android:ca6e36aa635d82b91c93af",
+        "android_client_info": {
+          "package_name": "com.example.odonto_estagio12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709876722430-ps0u5qquj66dl3sv3pc5d0bgv2b263lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.odonto_estagio12",
+            "certificate_hash": "1be043899f880dd11e155ec998d2ebb110eba7ca"
+          }
+        },
+        {
+          "client_id": "709876722430-92dupi236hd6qgbhkqmm8f7nog3lqpsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZHjdu9QZ3QSfebmFC5y1NbrOpw_OS5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709876722430-92dupi236hd6qgbhkqmm8f7nog3lqpsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
